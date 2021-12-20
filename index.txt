@@ -1,0 +1,49 @@
+
+<html>
+<head>
+<title>圖片練習</title>
+
+<style>
+f {
+  font-size:25px
+}
+</style>
+
+</head>
+<body>
+
+<table border="1">
+<tr>
+<th><f>圖片</f></th>
+<th><f>標題</f></th>
+<th><f>說明</f></th>
+</tr>
+
+<tr>
+<td><img src=".\image\001.jpg" width="400" height="300" align="left"></td>
+<td align="center"><h3>021高雄美食餐廳推薦 | 精選TOP 15間熱門店家</h3></td>
+<td align="center">餐點普通，但份量很足夠！<br>
+人員的服務、應變能力都超棒！<br>
+遊戲區不限時間但要穿著襪子！<br><br>
+</tr>
+
+<tr>
+<td><img src=".\image\002.jpg" width="400" height="300" align="left"></td>
+<td align="center"><h3>★全文分享★  萌木之村。台中森林系餐廳｜咖啡甜點。現做套餐料理 (暫停營業)</h3></td>
+<td align="center">大大小小一行人來到台中聚餐，原本想吃灰鴿火鍋，<br>地頭蛇飛天璇說，
+灰鴿老闆最近在中科商圈開了新餐廳，<br>不僅有現做套餐料理，咖啡輕食甜點，
+也有火鍋可選擇。<br><br>而且餐廳以日本清里萌木之村</td>
+</tr>
+
+<tr>
+<td><img src=".\image\003.jpg" width="400" height="300" align="left"></td>
+<td align="center"><h3>★全文分享★  HALO哈蘿格子Q。台中興大商圈熱門美食｜不加一滴水、只加牛奶的涮嘴鬆餅</h3></td>
+<td align="center">因為咖啡三冠王陳皇仁的推薦，我率隊來到中興大學<br>附近的美村南路，
+他說這裡有一家他朋友開的「哈蘿格子Q」<br>，邀瑪格到台中時順路嚐嚐。<br><br>
+路旁騎樓下小攤子，招牌俏皮的寫著「我和鬆餅不一樣</td>
+</tr>
+
+</table>
+
+</body>
+</html>
